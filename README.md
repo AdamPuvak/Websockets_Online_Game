@@ -22,9 +22,6 @@ Players use mouse or arrow keys to move their cursor, leaving a trail. Closing t
 ### Competition:
 Players can capture each other's territory and eliminate the opponent by crossing over their incomplete trail.
 
-### Competing with the Opponent:
-Players can capture each other's territory and eliminate the opponent by crossing over their incomplete trail.
-
 ### Game End:
 The game can end in two ways:
 
